@@ -1,1 +1,110 @@
-.pink {color:pink;} 
+body{
+    background-image: url("/images/trippy-bg.jpg");
+    background-size: 200px 200px;
+}
+
+a{
+    padding: 25px;
+    color:#40ff00;
+}
+
+a:hover{
+    color: #00ffff;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+p{
+    text-align:center;
+    color: white;
+}
+
+.mushroom-1{
+    width: 10px;
+    height: 30px;
+    margin-top: -75px;
+    margin-left: 100px;
+    float: left;
+}
+.mushroom-2{
+    width: 10px;
+    height: 30px;
+    margin-top: -75px;
+    margin-right: 150px;
+    float: right;
+}
+
+.heart-1{
+    width: 10px;
+    height: 30px;
+    margin-top: -75px;
+    margin-right: 150px;
+    float: right;
+}
+
+.heart-2{
+    width: 10px;
+    height: 30px;
+    margin-top: -75px;
+    margin-right: 150px;
+    float: right;
+}
+
+.container{
+    background-color:#ffff00;
+    color: white;
+}
+
+.header {
+    color:pink;
+    text-align: center;
+    padding: 15px;
+} 
+
+.header2{
+    color: #ffff00;
+    text-align: center;
+}
+
+.paragraph-1{
+    background-color: #00ffff;
+}
+
+.paragraph-2{
+    background-color: #40ff00;
+}
+
+.paragraph-3{
+    background-color:#ff00ff;
+}
+
+.paragraph-4{
+    background-color: #ffff00;
+}
+
+.paragraph-5{
+    background-color: #ffbf00;
+}
+
+.paragraph-6{
+    background-color: #ff8000;
+}
+
+.paragraph-7{
+    background-color: #ff4000;
+}
+
+.paragraph-8{
+    background-color: #00bfff;
+}
+
+.paragraph-9{
+    background-color:#00ff80;
+}
+
+.paragraph-10{
+    background-color: #8000ff;
+}
