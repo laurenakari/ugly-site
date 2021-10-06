@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://raw.githubusercontent.com/laurenakari/ugly-site/main/example/images/trippy-bg.jpg");
+    background-image: url("/example/images/trippy-bg.jpg");
     background-size: 200px 200px;
 }
 
