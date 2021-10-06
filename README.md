@@ -1,3 +1,3 @@
-[example page](https://laurenakari.github.io/systems-lab-21/example/new.html)
+[example page](https://laurenakari.github.io/ugly-site/example/new.html)
 
 
