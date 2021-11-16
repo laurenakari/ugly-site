@@ -1,5 +1,5 @@
 body{
-    background-image: url("/images/trippy-bg.jpg");
+    background-image: url("/example/images/trippy-bg.jpg");
     background-size: 200px 200px;
 }
 
@@ -41,8 +41,8 @@ p{
     width: 10px;
     height: 30px;
     margin-top: -75px;
-    margin-right: 150px;
-    float: right;
+    margin-left: 100px;
+    float: left;
 }
 
 .heart-2{
@@ -108,3 +108,31 @@ p{
 .paragraph-10{
     background-color: #8000ff;
 }
+
+@media only screen and (max-width: 400px) {
+    /* For mobile phones: */
+    .mushroom-1{
+        margin-top: -60px;
+        margin-left: 20px;
+        float: left;
+    }
+    .mushroom-2{
+        margin-top: -60px;
+        margin-right: 75px;
+        float: right;
+    }
+    .heart-1{
+        width: 10px;
+        height: 25px;
+        margin-top: -120px;
+        margin-left: 10px;
+        float: left;
+    }
+    .heart-2{
+        width: 10px;
+        height: 25px;
+        margin-top: -120px;
+        margin-right: 60px;
+        float: right;
+    }
+  }
